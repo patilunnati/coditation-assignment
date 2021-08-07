@@ -1,4 +1,4 @@
-# coditation-assignment
+# coditation-assignment 
 
 ### Problem Statement
 
@@ -14,3 +14,4 @@ The initial pattern constitutes the 'seed' (randomly placed 500 cells) of the sy
 created by applying the above rules simultaneously to every cell in the seed — births and deaths happen
 simultaneously, and the discrete moment at which this happens is called a tick. (In other words, each
 generation is a pure function of the one before.)
+
